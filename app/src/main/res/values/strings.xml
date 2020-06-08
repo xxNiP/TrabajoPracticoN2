@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">TrabajoPracticoN2</string>
+    <string name="btnSumar">Sumar</string>
+    <string name="btnResta">Resta</string>
+    <string name="btnZoomMas">Enfocar +</string>
+    <string name="btnZoomMenos">Enfocar -</string>
+    <string name="btnOcultar">Ocultar</string>
+    <string name="btnReset">Reiniciar</string>
+    <string name="editTextNumero">Ingrese Numero</string>
+    <string name="editTextMoneda">Ingrese Monto en Pesos</string>
+    <string name="txtMoneda">Seleccione una Moneda</string>
+    <string name="radioBtnDolar">Dolar$</string>
+    <string name="radioBtnEuro">Euro$</string>
+    <string name="radioBtnReal">Real$</string>
+    <string name="editTextResultado">Resultado</string>
+    <string name="btnConversor">Conversor</string>
+
+</resources>

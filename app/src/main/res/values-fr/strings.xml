@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="btnSumar">Ajouter</string>
+    <string name="app_name">" TravailPratiqueN2"</string>
+    <string name="btnResta">Soustraction</string>
+    <string name="btnReset">" Réinitialiser"</string>
+    <string name="btnOcultar">" Cacher"</string>
+    <string name="btnZoomMas">" Concentrer +"</string>
+    <string name="btnZoomMenos">Concentrer -</string>
+    <string name="editTextNumero">Entrer un nombre</string>
+    <string name="btnConversor">Convertisseur</string>
+    <string name="editTextResultado">Résultat</string>
+    <string name="radioBtnReal">Réel$</string>
+    <string name="radioBtnDolar">Dollar$</string>
+    <string name="radioBtnEuro">Euro$</string>
+    <string name="txtMoneda">" Sélectionnez une devise"</string>
+    <string name="editTextMoneda">Entrez le montant en pesos</string>
+</resources>

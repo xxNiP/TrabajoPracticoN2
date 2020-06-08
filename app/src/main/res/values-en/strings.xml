@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PracticalWorkN2</string>
+    <string name="btnSumar">Add</string>
+    <string name="btnResta">Subtract</string>
+    <string name="btnOcultar">Hide</string>
+    <string name="btnReset">Reset</string>
+    <string name="btnZoomMas" translatable="false">Zoom +</string>
+    <string name="btnZoomMenos">Zoom -</string>
+    <string name="editTextNumero">Enter Number</string>
+    <string name="editTextMoneda">Enter amount in pesos</string>
+    <string name="txtMoneda">Select a Currency</string>
+    <string name="radioBtnDolar">Dollar$</string>
+    <string name="radioBtnEuro">Euro$</string>
+    <string name="radioBtnReal">Real$</string>
+    <string name="editTextResultado">Outcome</string>
+    <string name="btnConversor">" Converter"</string>
+</resources>
